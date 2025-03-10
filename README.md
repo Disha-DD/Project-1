@@ -1,7 +1,6 @@
 # 🚀 Pitch Craft  
 
-
-
+![image alt]()
 🔗 **Live Demo:** [Pitch Craft](https://v0-smart-presentation-generator.vercel.app/)  
 
 Vercel offers free hosting for websites.
