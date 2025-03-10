@@ -1,8 +1,11 @@
-# 🚀 Pitch Craft
-## Demo Highlights
-![Alt text]("C:\Users\dhuri\OneDrive\Pictures\Hack....India\pic 1.png")
-![Alt text]("C:\Users\dhuri\OneDrive\Pictures\Hack....India\pic 2.png")
+# 🚀 Pitch Craft  
 
+![Highlights](pic%201.png)  
+![Highlights](pic%202.png)  
+
+🔗 **Live Demo:** [Pitch Craft](https://v0-smart-presentation-generator.vercel.app/)  
+
+Vercel offers free hosting for websites.
 
 ## 📢 AI-Powered Presentation Builder  
 
@@ -37,3 +40,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/pitch-craft.git
 cd pitch-craft
 npm install
+
