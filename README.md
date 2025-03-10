@@ -1,10 +1,13 @@
 # 🚀 Pitch Craft  
-
+###Landing Page
 ![image alt](https://github.com/Disha-DD/Project-1/blob/e6034db3ddaa34afb431788632235ae017d7a498/image%201.jpg)
 ![image alt](https://github.com/Disha-DD/Project-1/blob/e6034db3ddaa34afb431788632235ae017d7a498/image%202.jpg)
 ![image alt](https://github.com/Disha-DD/Project-1/blob/e6034db3ddaa34afb431788632235ae017d7a498/image%203.jpg)
+###New Presentation
 ![image alt](https://github.com/Disha-DD/Project-1/blob/e6034db3ddaa34afb431788632235ae017d7a498/image%204.jpg)
+###Slide Preview
 ![image alt](https://github.com/Disha-DD/Project-1/blob/e6034db3ddaa34afb431788632235ae017d7a498/image%205.jpg)
+###Templates
 ![image alt](https://github.com/Disha-DD/Project-1/blob/e6034db3ddaa34afb431788632235ae017d7a498/image%206.jpg)
 
 🔗 **Live Demo:** [Pitch Craft](https://v0-smart-presentation-generator.vercel.app/)  
