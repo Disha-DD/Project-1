@@ -1,6 +1,6 @@
 # 🚀 Pitch Craft  
 
-![image_url](https://github.com/Disha-DD/Project-1/blob/main/pic%201.png?raw=true)
+
 
 🔗 **Live Demo:** [Pitch Craft](https://v0-smart-presentation-generator.vercel.app/)  
 
