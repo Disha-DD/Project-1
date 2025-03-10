@@ -1,4 +1,8 @@
 # 🚀 Pitch Craft
+## Demo Highlights
+![Alt text]("C:\Users\dhuri\OneDrive\Pictures\Hack....India\pic 1.png")
+![Alt text]("C:\Users\dhuri\OneDrive\Pictures\Hack....India\pic 2.png")
+
 
 ## 📢 AI-Powered Presentation Builder  
 
